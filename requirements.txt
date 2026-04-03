@@ -5,4 +5,6 @@ flask
 gunicorn 
 seaborn 
 matplotlib
--e .
+catboost
+xgboost
+#-e .
