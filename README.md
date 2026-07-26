@@ -190,11 +190,7 @@ It predicts the expected **Mathematics Score**.
 
 ## Author
 
-**Uday**
-
 GitHub: https://github.com/venix7
-
-LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
 ## License
